@@ -20,8 +20,8 @@ Step 14:Update margins and display the graph using matplotlib.pyplot<br/>
 
 ## Program:
 ```
-Name:M.Hariharan
-Reg.No:212221230034
+Name:KATHIRVEL.A
+Reg.No:212221230047
 ```
 ```
 import pandas as pd
@@ -90,9 +90,40 @@ plt.show()
 
 ```
 ## Output:
-![](1.png)
-![](2.png)
-![](3.png)
-![](4.png)
+
+
+
+
+
+![image](https://github.com/KathirvelAIDS/Bayesian-Network/assets/94911373/70b62e8c-da37-48bd-84d8-b9c1c22c36ef)
+
+
+
+
+
+
+
+
+
+![image](https://github.com/KathirvelAIDS/Bayesian-Network/assets/94911373/7a026eb6-a232-4b15-b95e-73e11c1bfc57)
+
+
+
+
+
+
+![image](https://github.com/KathirvelAIDS/Bayesian-Network/assets/94911373/995a3d3d-f55d-4ac9-838e-4fe1e645db57)
+
+
+
+
+
+![image](https://github.com/KathirvelAIDS/Bayesian-Network/assets/94911373/d934f3f7-6232-4a75-9d2a-00b8af4a42d3)
+
+
+
+
+
+
 ## Result:
    Thus a Bayesian Network is generated using Python
