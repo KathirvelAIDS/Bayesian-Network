@@ -19,6 +19,8 @@ Step 12: Set options for the graph appearance.<br/>
 Step 13: Generate the graph using networkx.<br/>
 Step 14: Update margins and display the graph using matplotlib.pyplot.<br/>
 
+### NAME : RAGUL A C
+### REG NO : 212221240042
 ## PROGRAM
 ```python3
 !pip install pybbn
